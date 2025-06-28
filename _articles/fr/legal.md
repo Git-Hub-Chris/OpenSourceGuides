@@ -32,7 +32,7 @@ Lorsque vous [créez un nouveau projet](https://help.github.com/articles/creatin
 
 ![Créer un référentiel](/assets/images/legal/repo-create-name.png)
 
-**Rendre public votre projet GitHub est différent d'appliquer une licence à votre projet.** Les projets publics sont couverts par les [Conditions d'utilisation de GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), ce qui permet aux autres de voir et de forker votre projet, mais par défaut aucune permission ne leur est accordé sur votre travail.
+**Rendre public votre projet GitHub est différent d'appliquer une licence à votre projet.** Les projets publics sont couverts par les [Conditions d'utilisation de GitHub](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), ce qui permet aux autres de voir et de forker votre projet, mais par défaut aucune permission ne leur est accordé sur votre travail.
 
 Si vous souhaitez que d'autres personnes utilisent, distribuent, modifient ou contribuent à votre projet, vous devez inclure une licence open source. Par exemple, quelqu'un ne peut légalement utiliser aucune partie de votre projet GitHub dans son code, même s'il est public, à moins que vous ne lui donniez explicitement le droit de le faire.
 
@@ -98,13 +98,13 @@ En outre, en ajoutant de la "paperasse" jugée inutile, difficile à comprendre 
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     Nous avons éliminé le CLA pour Node.js. Cela réduit la barrière à l'entrée pour les contributeurs Node.js, élargissant ainsi la base des contributeurs.
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
 Certaines situations où vous pourriez envisager un accord de contribution supplémentaire pour votre projet incluent:
 
-* Vos avocats veulent que tous les contributeurs acceptent expressément les termes de contribution (_signer_, en ligne ou hors ligne), peut-être parce qu'ils pensent que la licence Open Source n'est pas suffisante (même si c'est le cas !). Si c'est la seule préoccupation, un accord de contribution qui affirme la licence open source du projet devrait être suffisant. Le [Contrat de licence de contributeur individuel jQuery](https://contribute.jquery.org/CLA/) est un bon exemple d'accord de contributeur supplémentaire léger. Pour certains projets, un [Developer Certificate of Origin](https://github.com/probot/dco) peut être une alternative.
+* Vos avocats veulent que tous les contributeurs acceptent expressément les termes de contribution (_signer_, en ligne ou hors ligne), peut-être parce qu'ils pensent que la licence Open Source n'est pas suffisante (même si c'est le cas !). Si c'est la seule préoccupation, un accord de contribution qui affirme la licence open source du projet devrait être suffisant. Le [Contrat de licence de contributeur individuel jQuery](https://web.archive.org/web/20161013062112/http://contribute.jquery.org/CLA/) est un bon exemple d'accord de contributeur supplémentaire léger. Pour certains projets, un [Developer Certificate of Origin](https://github.com/probot/dco) peut être une alternative.
 * Votre projet utilise une licence open source qui n'inclut pas de brevet explicite (tel que MIT), et vous avez besoin d'une licence de brevet de tous les contributeurs, dont certains peuvent travailler pour des entreprises avec de grands portefeuilles de brevets qui pourraient vous servir ou les autres contributeurs et utilisateurs du projet. Le [Contrat de licence de contributeur individuel Apache](https://www.apache.org/licenses/icla.pdf) est un accord de contributeur supplémentaire communément utilisé qui a une licence de brevet reflétant celle de la licence Apache 2.0.
 * Votre projet est sous licence copyleft, mais vous devez également distribuer une version propriétaire du projet. Vous aurez besoin de chaque contributeur pour vous attribuer des droits d'auteur ou vous accorder (mais pas le public) une licence permissive. Le [Contrat de collaboration MongoDB](https://www.mongodb.com/legal/contributor-agreement) est un exemple de ce type d'accord.
 * Vous pensez que votre projet pourrait avoir besoin de changer de licence au cours de sa vie et que les contributeurs soient d'accord à l'avance sur de tels changements.

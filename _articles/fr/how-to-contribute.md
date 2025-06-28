@@ -86,7 +86,7 @@ Même si vous aimez écrire du code, d'autres types de contributions sont un exc
 * Écrire et améliorer la documentation du projet
 * Curate un dossier d'exemples montrant comment le projet est utilisé
 * Démarrer un bulletin d'information pour le projet, ou organiser des faits marquants de la liste de diffusion
-* Rédiger des tutoriels pour le projet, [comme les contributeurs de PyPA l'ont fait](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Rédiger des tutoriels pour le projet, [comme les contributeurs de PyPA l'ont fait](https://packaging.python.org/)
 * Écrire une traduction pour la documentation du projet
 
 <aside markdown="1" class="pquote">
@@ -207,7 +207,6 @@ Vous pouvez également utiliser l'une des ressources suivantes pour vous aider �
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
