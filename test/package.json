@@ -49,7 +49,7 @@
     "retext-simplify": "^4.1.0",
     "retext-spell": "^2.3.0",
     "retext-syntax-mentions": "^1.1.0",
-    "retext-syntax-urls": "^1.0.0",
+    "retext-syntax-urls": "^4.0.0",
     "retext-words": "bkeepers/retext-words",
     "to-vfile": "^2.1.0",
     "unified": "^6.1.0",
