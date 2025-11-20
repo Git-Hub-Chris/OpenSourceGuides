@@ -28,7 +28,7 @@
     "remark-lint-no-inline-padding": "^1.0.0",
     "remark-lint-no-literal-urls": "^1.0.0",
     "remark-lint-no-missing-blank-lines": "^1.0.0",
-    "remark-lint-no-multiple-toplevel-headings": "^1.0.0",
+    "remark-lint-no-multiple-toplevel-headings": "^4.0.1",
     "remark-lint-no-shortcut-reference-image": "^1.0.0",
     "remark-lint-no-shortcut-reference-link": "^1.0.1",
     "remark-lint-no-undefined-references": "^1.0.0",
