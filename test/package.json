@@ -4,7 +4,7 @@
     "async": "^3.2.6",
     "dictionary-en-us": "^2.0.0",
     "glob": "^13.0.0",
-    "ignore": "^3.1.3",
+    "ignore": "^7.0.5",
     "js-yaml": "^4.1.1",
     "remark-frontmatter": "^1.1.0",
     "remark-lint": "^6.0.0",
@@ -46,14 +46,14 @@
     "retext-readability": "^8.0.0",
     "retext-repeated-words": "^5.0.0",
     "retext-sentence-spacing": "^2.0.0",
-    "retext-simplify": "^4.1.0",
+    "retext-simplify": "^8.0.0",
     "retext-spell": "^2.3.0",
     "retext-syntax-mentions": "^1.1.0",
     "retext-syntax-urls": "^4.0.0",
     "retext-words": "bkeepers/retext-words",
     "to-vfile": "^2.1.0",
     "unified": "^6.1.0",
-    "vfile-reporter": "^4.0.0",
+    "vfile-reporter": "^8.1.1",
     "vfile-statistics": "^1.0.0"
   }
 }
