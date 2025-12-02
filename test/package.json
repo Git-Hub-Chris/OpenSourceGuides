@@ -6,7 +6,7 @@
     "glob": "^13.0.0",
     "ignore": "^7.0.5",
     "js-yaml": "^4.1.1",
-    "remark-frontmatter": "^1.1.0",
+    "remark-frontmatter": "^5.0.0",
     "remark-lint": "^10.0.1",
     "remark-lint-blockquote-indentation": "^4.0.1",
     "remark-lint-emphasis-marker": "^4.0.1",
