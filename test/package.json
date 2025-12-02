@@ -48,7 +48,7 @@
     "retext-sentence-spacing": "^2.0.0",
     "retext-simplify": "^8.0.0",
     "retext-spell": "^6.1.0",
-    "retext-syntax-mentions": "^1.1.0",
+    "retext-syntax-mentions": "^4.0.0",
     "retext-syntax-urls": "^4.0.0",
     "retext-words": "bkeepers/retext-words",
     "to-vfile": "^8.0.0",
