@@ -45,7 +45,7 @@
     "retext-quotes": "^6.0.2",
     "retext-readability": "^8.0.0",
     "retext-repeated-words": "^5.0.0",
-    "retext-sentence-spacing": "^2.0.0",
+    "retext-sentence-spacing": "^6.0.0",
     "retext-simplify": "^8.0.0",
     "retext-spell": "^6.1.0",
     "retext-syntax-mentions": "^4.0.0",
