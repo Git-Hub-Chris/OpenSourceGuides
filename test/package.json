@@ -54,6 +54,6 @@
     "to-vfile": "^8.0.0",
     "unified": "^11.0.5",
     "vfile-reporter": "^8.1.1",
-    "vfile-statistics": "^1.0.0"
+    "vfile-statistics": "^3.0.0"
   }
 }
