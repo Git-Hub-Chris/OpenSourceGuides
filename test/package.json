@@ -41,7 +41,7 @@
     "remark-stringify": "^11.0.0",
     "retext-emoji": "^9.0.0",
     "retext-english": "^5.0.0",
-    "retext-equality": "^3.1.0",
+    "retext-equality": "^7.1.0",
     "retext-quotes": "^6.0.2",
     "retext-readability": "^8.0.0",
     "retext-repeated-words": "^5.0.0",
