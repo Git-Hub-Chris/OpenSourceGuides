@@ -2,7 +2,7 @@
   "private": true,
   "devDependencies": {
     "async": "^3.2.6",
-    "dictionary-en-us": "^2.0.0",
+    "dictionary-en-us": "^3.0.0",
     "glob": "^13.0.0",
     "ignore": "^7.0.5",
     "js-yaml": "^4.1.1",
