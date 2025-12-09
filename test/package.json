@@ -11,7 +11,7 @@
     "remark-lint-blockquote-indentation": "^4.0.1",
     "remark-lint-emphasis-marker": "^4.0.1",
     "remark-lint-final-newline": "^3.0.1",
-    "remark-lint-first-heading-level": "^1.1.0",
+    "remark-lint-first-heading-level": "^4.0.1",
     "remark-lint-hard-break-spaces": "^4.1.1",
     "remark-lint-heading-increment": "^4.0.1",
     "remark-lint-heading-style": "^1.0.0",
