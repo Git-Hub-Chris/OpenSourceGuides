@@ -26,7 +26,7 @@
     "remark-lint-no-duplicate-headings": "^1.0.0",
     "remark-lint-no-heading-content-indent": "^5.0.1",
     "remark-lint-no-inline-padding": "^5.0.0",
-    "remark-lint-no-literal-urls": "^1.0.0",
+    "remark-lint-no-literal-urls": "^4.0.1",
     "remark-lint-no-missing-blank-lines": "^4.0.1",
     "remark-lint-no-multiple-toplevel-headings": "^4.0.1",
     "remark-lint-no-shortcut-reference-image": "^4.0.1",
