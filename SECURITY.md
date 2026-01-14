@@ -49,13 +49,6 @@ We regularly monitor and update our dependencies to ensure they are free of know
 - Report outdated or vulnerable dependencies
 - Keep pull requests up to date with the latest security patches
 
-## Contact
-
-For security concerns, please reach out to the maintainers:
-
-- **Email**: security@example.com
-- **GitHub Issues**: For non-sensitive issues only
-
 ## Acknowledgments
 
 We appreciate the security research community's efforts in helping us maintain a secure repository. Responsible disclosure helps us protect our users and community.
