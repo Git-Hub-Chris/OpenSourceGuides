@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-We take security seriously and appreciate the efforts of the security research community in responsibly disclosing vulnerabilities. If you discover a security vulnerability in this repository, please report it by emailing us at **security@example.com** instead of using the public issue tracker.
+We take security seriously and appreciate the efforts of the security research community in responsibly disclosing vulnerabilities. If you discover a security vulnerability in this repository, please report it.
 
 ### Reporting Guidelines
 
