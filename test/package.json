@@ -3,7 +3,7 @@
   "devDependencies": {
     "async": "^3.2.6",
     "dictionary-en-us": "^3.0.0",
-    "glob": "^13.0.0",
+    "glob": "^14.0.2",
     "ignore": "^7.0.5",
     "js-yaml": "^5.1.0",
     "remark-frontmatter": "^5.0.0",
